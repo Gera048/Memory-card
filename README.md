@@ -1,2 +1,2 @@
 # Mind-map
-uhh... just a project, but if you don`t know russian it`s okay just use translator
+# You can read and copy this code of this project but dont steal please :<
